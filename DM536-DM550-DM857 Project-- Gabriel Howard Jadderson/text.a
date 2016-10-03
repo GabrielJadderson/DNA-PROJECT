@@ -1,0 +1,65 @@
+Examintaion 1: Failure
+c ta c ta aaa at a caaaaa at ta gc tgggt gc aggc cg g gc a cg gtg gc tc
+
+ERROR with TA AT, AT not registered twice
+found TA base pairs
+found TA base pairs
+found AT base pairs
+found TA base pairs
+found AT base pairs
+found TA base pairs
+found GC base pairs
+found GC base pairs
+found GC base pairs
+found CG base pairs
+found GC base pairs
+found CG base pairs
+found GC base pairs
+
+Examination 2: Correct
+tgaggtcaggag at tgagacc at cctg gc ta aca cg gtgaaacccc at ct
+found AT base pairs
+found AT base pairs
+found GC base pairs
+found TA base pairs
+found CG base pairs
+found AT base pairs
+
+
+Examination 3: MEDIUM
+g  gc  tca  cg  cctg  ta  at  cccaggactttgggag  gc  cg  aggtgggagg  at  ca
+Failure to completely foresee the sequence but partially correct if the basePairs were UPPERCASED, there would be no problem
+found GC base pairs
+found CG base pairs
+found GC base pairs
+found TA base pairs
+found AT base pairs
+found GC base pairs
+found CG base pairs
+found AT base pairs
+
+------------------------------------------------------------------------------------
+3 lines analyzed
+
+ctaaccctaaccctaaccctaaccctaaccctaaccctctgaaagtggac
+found TA base pairs
+found TA base pairs
+found TA base pairs
+found TA base pairs
+found TA base pairs
+found TA base pairs
+ctatcagcaggatgtgggtgggagcagattagagaataaaagcagactgc
+found TA base pairs
+found AT base pairs
+found GC base pairs
+found AT base pairs
+found GC base pairs
+found AT base pairs
+found TA base pairs
+found AT base pairs
+found TA base pairs
+found GC base pairs
+found GC base pairs
+ctgagccagcagtggcaacccaatggggtccctttccatactgtggaagc
+RESULT: tTAaaccctTAaaccctTAaaccctTAaaccctTAaaccctTAaaccctctgaaagtggacctTAaATtcagGCcaggaATtgtgggtgggagGCcagaATttTAagagaaATtTAaaaagGCcagactgGCcc
+
