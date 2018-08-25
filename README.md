@@ -1,2 +1,2 @@
 # DNA-PROJECT
-Python project DNA-sequencing of the human x chromosome.
+First year Python project of DNA-sequencing the human x chromosome.
